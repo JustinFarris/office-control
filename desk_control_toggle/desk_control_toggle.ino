@@ -6,7 +6,7 @@
    (1) motor-controlled desk with a simple 2-direction, 3-conductor control interface
    (1) normally-open momentary switch
    (2) normally-open reed switches
-   (2) arrays of (14) 6.4mm x 1.8mm disc neodymium magnets taped to max/min
+   (2) arrays of (14) 6.4mm x 1.8mm disc neodymium magnets taped to max/min (or some magnet strong enough to close the reed switch)
    wires and cables and stuff
    (I used:
      - A leviton-type RJ45 jack to connect the circuit to the controller
