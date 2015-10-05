@@ -17,7 +17,5 @@ Toggles a motorized sit/stand desk between sitting position and standing positio
 
 ### This would be more efficient/expensive with:
  * reed switches at the max and min points
- * some way to directly measure height/distance.
+ * some way to directly measure height/distance
 
- created some October Sunday in 2015
- by Justin Farris
