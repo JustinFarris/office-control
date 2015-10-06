@@ -22,11 +22,11 @@
 
 
 // first section of globals can be configured to meet your desk configuration
-const int B = 7; // toggle button
-const int Ru = 8; // up relay
-const int Rd = 9; // down relay
-const int Sd = 10; // sitting reed switch
-const int Su = 11; // standing reed switch
+const int B = 2; // toggle button
+const int Ru = 3; // up relay
+const int Rd = 4;//9; // down relay
+const int Sd = 5; // sitting reed switch
+const int Su = 6; // standing reed switch
 int Tm = 18500; // max travel time from max to min
 int Td = 4500; // time from bottom reed switch to min height
 int Tu = 12900; // time from top reed switch to min height
