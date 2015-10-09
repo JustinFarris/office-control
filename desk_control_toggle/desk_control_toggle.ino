@@ -30,7 +30,7 @@ const int Su = 6; // standing reed switch
 int Tm = 18500; // max travel time from max to min
 int Td = 4500; // time from bottom reed switch to min height
 int Tu = 12900; // time from top reed switch to min height
-int Offset = 250; // how long after reed switch is closed to stop moving 
+int Offset = 750; // how long after reed switch is closed to stop moving 
 int bDelay = 350; // how long to wait between button press detection (to prevent accidental double-click)
 
 // this is probably an inefficient use of globals, but idgaf
