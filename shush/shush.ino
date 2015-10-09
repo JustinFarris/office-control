@@ -1,5 +1,12 @@
-#define OSX 0
+/*
+Simple momentary key control from a single momentary switch mounted to my desk.
+Used to control Shush: http://mizage.com/shush/
 
+It's a Push-to-talk/toggle/cough button for microphones.
+Very handy for anybody who does a lot of group audio/videoconferencing.
+*/
+
+#define OSX 0
 #include "Keyboard.h"
 #include "HID.h"
 
