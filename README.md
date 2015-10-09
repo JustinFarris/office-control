@@ -21,7 +21,7 @@ Toggles a motorized sit/stand desk between sitting position and standing positio
 
 ## shush:
 Simple momentary key control from a single momentary switch mounted to my desk.
-Used to control Shush: [http://mizage.com/shush/]
+Used to control Shush: http://mizage.com/shush/
 
 It's a Push-to-talk/toggle/cough button for microphones.
 Very handy for anybody who does a lot of group audio/videoconferencing.
