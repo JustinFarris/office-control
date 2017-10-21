@@ -4,6 +4,9 @@ Used to control Shush: http://mizage.com/shush/
 
 It's a Push-to-talk/toggle/cough button for microphones.
 Very handy for anybody who does a lot of group audio/videoconferencing.
+
+This isn't updated any more, but I'm leaving it as a reference for a simple one-button app.
+
 */
 
 #define OSX 0
